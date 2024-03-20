@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--msftcttpjhfw2r756pocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/7fb07251-ade6-49e7-9b6a-47f25a8b18d6/resourceGroups/LakehousePOC/providers/Microsoft.Synapse/workspaces/msftcttpjhfw2r756pocws1",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"msftcttpjhfw2r756pocws1-ondemand.30488f14-90bd-4fa2-9454-b1515a97b235.sql.azuresynapse.net"
+		]
+	}
+}
